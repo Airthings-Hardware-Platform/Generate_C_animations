@@ -43,7 +43,7 @@ Run: `./test_animation <struct_name> <num_frames>`
 
 `filter_dark_pixels` is an image processing function that filters out dark noise and makes a smoother gradient between the darkest level (led turned off) and the remaining darkerst active pixels. The function gets active when .num_pixels is above a certain level. 
 
-`enhance_contrast_if_many_active` adjusts the constrast annd is default on. Good for videoes taken on phone camera. Adjust how string you want the contrast with k
+`enhance_contrast_if_many_active` adjusts the constrast and is default on. Good for videoes taken on phone camera. Adjust how strong you want the contrast with _k_ (value ranges from 0 to 1) whereas a higher value gives a steeper sigmoid function, thus higher contrast. 
 
 ![A descriptive caption for the image](./README_images/default_image_prosessing.png)
 *Comparison of prosessed and unprocessed images.*
