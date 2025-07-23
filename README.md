@@ -45,6 +45,8 @@ Run: `./test_animation <struct_name> <num_frames>`
 
 `enhance_contrast_if_many_active` adjusts the constrast annd is default on. Good for videoes taken on phone camera. Adjust how string you want the contrast with k
 
+![A descriptive caption for the image](./README_images/default_image_prosessing.png)
+
 
 XOX Andrea
 
