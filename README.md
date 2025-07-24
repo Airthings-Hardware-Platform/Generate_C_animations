@@ -1,9 +1,7 @@
 # Convert_from_images_to_animations_in_C
 ## Pixelate Images and Convert to C Animation Structs
 
-This tool helps you convert PNG images (or a sequence of images) into C structs suitable for use in embedded animation projects. It pixelates images to a fixed grid, extracts brightness data, and generates C code for animation frames.
-
----
+This tool converts a sequence of PNG JPG or JPEG images into C structs, which can be used for animations in embedded systems and other C-based projects. The script pixelates the images to a fixed grid, extracts brightness data, and generates the corresponding C code for animation frames.
 
 ### Features
 
