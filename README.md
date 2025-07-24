@@ -46,7 +46,7 @@ Run: `./test_animation <struct_name> <num_frames>`
 `enhance_contrast_if_many_active` adjusts the constrast and is default on. Good for videoes taken on phone camera. Adjust how strong you want the contrast with _k_ (value ranges from 0 to 1) whereas a higher value gives a steeper sigmoid function, thus higher contrast. 
 
 ![A descriptive caption for the image](./README_images/default_image_prosessing.png)
-*Comparison of prosessed and unprocessed images.*
+*Comparison of prosessed and unprocessed images. The plot displays the default settings*
 
 
 XOX Andrea
